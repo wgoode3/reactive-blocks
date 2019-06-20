@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/reactive-blocks/static/js/main.912aa253.chunk.js",
+    "main.js.map": "/reactive-blocks/static/js/main.912aa253.chunk.js.map",
+    "runtime~main.js": "/reactive-blocks/static/js/runtime~main.166b5157.js",
+    "runtime~main.js.map": "/reactive-blocks/static/js/runtime~main.166b5157.js.map",
+    "static/js/2.1d591c17.chunk.js": "/reactive-blocks/static/js/2.1d591c17.chunk.js",
+    "static/js/2.1d591c17.chunk.js.map": "/reactive-blocks/static/js/2.1d591c17.chunk.js.map",
+    "index.html": "/reactive-blocks/index.html",
+    "precache-manifest.60b0ae7911a177296d1afddedc84a7b9.js": "/reactive-blocks/precache-manifest.60b0ae7911a177296d1afddedc84a7b9.js",
+    "service-worker.js": "/reactive-blocks/service-worker.js"
+  }
+}
